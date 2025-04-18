@@ -4,7 +4,7 @@
 
 ---
 
-## 📱 Platforms
+## 📱 Platforms (Mobile Only)
 
 - 🟢 [Google Play Store](#) *(Coming soon or already published)*
 - 🟣 [App Store](#) *(Coming soon or already published)*
