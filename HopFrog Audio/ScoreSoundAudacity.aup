@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="ScoreSoundAudacity_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.6898958333" vpos="0" h="0.0000000000" zoom="2075.6948551153" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Encoded by" value="Sound Grinder 4.4.1"/>
+		<tag name="Copyright message" value="Alan McKinney"/>
+	</tags>
+	<wavetrack name="zapsplat_bells_small_hand_bell_ring_003_73027" isSelected="1" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="zapsplat_bells_small_hand_bell_ring_003_73027" isSelected="1" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="CoinNoise" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="33115">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084d9.au" len="33115" min="-0.185354" max="0.190503" rms="0.035167"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.361806552707" val="1.000000000000"/>
+				<controlpoint t="0.682181196581" val="0.098591566086"/>
+				<controlpoint t="0.682181196581" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="CoinNoise" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="33115">
+				<waveblock start="0">
+					<simpleblockfile filename="e080897a.au" len="33115" min="-0.185356" max="0.190497" rms="0.034378"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.361806552707" val="1.000000000000"/>
+				<controlpoint t="0.682181196581" val="0.098591566086"/>
+				<controlpoint t="0.682181196581" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
