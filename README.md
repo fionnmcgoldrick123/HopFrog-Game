@@ -6,8 +6,8 @@
 
 ## 📱 Platforms (Mobile Only)
 
-- 🟢 [Google Play Store](#) *(Coming soon or already published)*
-- 🟣 [App Store](#) *(Coming soon or already published)*
+- 🟢 [Google Play Store](#) *(published and ready for download!)*
+- 🟣 [App Store](#) *(Coming soon)*
 - 🔵 [Play on Itch.io](https://dawnbreakstudio.itch.io/hopfrog)  
   *(Password: `hopfrog02`, if prompted)*
 
