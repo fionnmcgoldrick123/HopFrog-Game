@@ -36,12 +36,5 @@ This project was an exploration of tight gameplay design, creative expression, a
 
 ---
 
-## 🚀 About the Developer
-
-Name: Fionn McGoldrick
-This repository and project are part of my professional portfolio. For questions, collaborations, or inquiries, feel free to reach out via GitHub or [LinkedIn](#).
-
----
-
 > “Sometimes the smallest leap can take you the furthest.”
 
